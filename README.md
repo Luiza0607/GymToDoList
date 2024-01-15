@@ -14,4 +14,4 @@ Project is created with:
 * ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ## 🌐
-https://gymtodolist.luiza0607.repl.co
+https://replit.com/@Luiza0607/GymToDoList
